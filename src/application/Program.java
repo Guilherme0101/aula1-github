@@ -6,6 +6,7 @@ public class Program {
 		
 		System.out.println("bom dia");
 		System.out.println("Boa tarde");
+		System.out.println("Boa noite");
 	}
 
 }
